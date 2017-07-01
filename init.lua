@@ -21,7 +21,5 @@ end
 
 --tm1637.fix(3,'B')
 --tm1637.off()
---
---
 
 tmr.alarm(0,2000,1,test)
